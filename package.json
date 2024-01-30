@@ -1,0 +1,25 @@
+{
+  "name": "afresh2-express",
+  "version": "0.1.0",
+  "description": "my js express server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afresh2/afresh2-express.git"
+  },
+  "keywords": [
+    "js",
+    "afresh2",
+    "server",
+    "express"
+  ],
+  "author": "afresh2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Afresh2/afresh2-express/issues"
+  },
+  "homepage": "https://github.com/Afresh2/afresh2-express#readme"
+}
