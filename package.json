@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Afresh2/afresh2-express#readme",
   "dependencies": {
+    "afresh2-common-fun": "^0.2.1",
     "express": "^4.18.2"
   }
 }
